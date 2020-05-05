@@ -9,7 +9,7 @@
     "homepage": "http://github.com/veer66/PhlongTaIam",
     "autoload": {
         "psr-4": {
-            "PhlongTaIam\\WordBreaker": "src/"
+            "PhlongTaIam": "src/"
         }
     }
 }
